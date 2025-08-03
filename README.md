@@ -43,16 +43,6 @@ That’s it. You’re ready to manage passwords locally.
 
 ---
 
-## 🖼️ Screenshots (Coming Soon)
-
-You’ll see:
-
-- A form to input website, email/username, and password
-- Buttons to save, view, delete all, or delete one
-- Saved passwords shown in a separate pop-up window
-
----
-
 ## 🧠 How It Works
 
 - Passwords are saved in a local `passwords.txt` file in the format:
@@ -73,10 +63,9 @@ If you're serious about security, look into **encryption**, **password hashing**
 
 ## 🙌 Author
 
-Made with love by **Atharva Arjun Patil**  
-Roll No.: 35  
+Made with love by **Ankush Ajay Yadav** 
 Department: Computer Engineering  
-College: [Your College Name Here]
+College: [Dilkap college of Engineerng]
 
 ---
 
